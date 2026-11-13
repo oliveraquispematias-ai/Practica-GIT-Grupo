@@ -4,7 +4,7 @@ se puede realizar en multiples archivos o solo en uno, es recomendable que sea e
 puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
 
 el CRUD es 
-    C (Create): Es el primer paso para empezar a trabajar con la base de datos, genera un registro nuevo donde antes no habia nada, para despues pasar a guardar la informacion en la base de datos.
+    C: create
     R: read
     U: update
     D: delete
@@ -14,6 +14,15 @@ el CRUD son las partes clave para crear una pagina, tiene los elementos escencia
 
 se puede realizar en multiples archivos o solo en uno, es recomendable que sea en 7 archios, 2 para crear, 2 para leer, 2 para actualizar y 1 para eliminar
 puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
+
+
+
+CREATE(Crear): 
+    Es el primer paso para empezar a trabajar con la base de datos, genera un registro nuevo donde antes no habia nada, para despues pasar a guardar la informacion en la base de datos.
+    Para entenderlo mejor los pasos son:
+        1: Llenas un formulario en pantalla ingresando los datos, por ejemplo, escribiendo tu nombre, correo y contraseña para abrir una cuenta.
+        2: El codigo toma esos datos que escribiste y los prepara.
+        3: El sistema crea una fila nueva en una tabla de la base de datos y los guarda.
 
  
 
