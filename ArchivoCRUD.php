@@ -1,5 +1,5 @@
 el CRUD es 
-    C: create
+    C (Create): Es el primer paso para empezar a trabajar con la base de datos, genera un registro nuevo donde antes no habia nada, para despues pasar a guardar la informacion en la base de datos.
     R: read
     U: update
     D: delete
