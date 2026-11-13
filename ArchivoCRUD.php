@@ -15,8 +15,14 @@ el CRUD son las partes clave para crear una pagina, tiene los elementos escencia
 se puede realizar en multiples archivos o solo en uno, es recomendable que sea en 7 archios, 2 para crear, 2 para leer, 2 para actualizar y 1 para eliminar
 puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
 
- 
-
+READ(Leer):
+    Es la función que nos permite consultar, visualizar y mostrar la información almacenada en la base de datos para que el usuario pueda ver los registros existentes.
+    Por lo general, esta operación se divide en dos vistas principales: mostrar una lista general con todos los registros disponibles y, si es necesario, mostrar el detalle de un solo elemento específico utilizando su ID.
+    Se debe seguir estos pasos:
+    - Realizar la conexión con la base de datos y ejecutar una consulta SQL (como SELECT) para extraer la información necesaria.
+    - Recorrer los resultados obtenidos mediante un bucle para procesar cada fila de datos recuperados.
+    - Mostrar la información estructurada en la interfaz (por lo general utilizando tablas, tarjetas o listas HTML combinadas con PHP) para que sea clara y organizada para el usuario.
+    - Incluir enlaces, botones o elementos interactivos (como los que llevan a actualizar o eliminar) vinculados al identificador (ID) de cada registro para facilitar las siguientes acciones.
 
 
 UPDATE(Actualizar):
