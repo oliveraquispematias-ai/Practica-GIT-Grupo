@@ -1,9 +1,54 @@
+DEFINICION
+el CRUD son las partes clave para crear una pagina, tiene los elementos escenciales para su funcionamiento osea crear leer actualizar y borrar
+se puede realizar en multiples archivos o solo en uno, es recomendable que sea en 7 archios, 2 para crear, 2 para leer, 2 para actualizar y 1 para eliminar
+puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
+
 el CRUD es 
     C: create
     R: read
     U: update
     D: delete
-    La operación DELETE es una de las cuatro acciones principales del CRUD (Create, Read, Update, Delete). 
+<<<<<<< HEAD
+ 
+=======
+<<<<<<< Updated upstream
+>>>>>>> 46a1d9b67b11fdd8848987f418e9c369fa748bea
+crear, leer, actualizar, y borrar
+
+el CRUD son las partes clave para crear una pagina, tiene los elementos escenciales para su funcionamiento osea crear leer actualizar y borrar
+<<<<<<< Updated upstream
+
+se puede realizar en multiples archivos o solo en uno, es recomendable que sea en 7 archios, 2 para crear, 2 para leer, 2 para actualizar y 1 para eliminar
+puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
+<<<<<<< HEAD
+=======
+=======
+ 
+
+
+
+UPDATE(Actualizar):
+    Es la funcion que nos permite editar la informacon de la base de datos, se debe conoceer que lemento de la base de datos queremos editar, por eso 
+    los enlaces que nos llevan a editar se encuentra al lado del elemnto que debemos modificar.
+    Asi podemos saber que dato queremos editar y como en la funcion para mostrar un solo elemnte debemos mandar el ID del elemento a editar.
+    En pasos se veria como:
+
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
+=======
+crear, leer, actualizar, y borrar
+>>>>>>> Stashed changes
+>>>>>>> 46a1d9b67b11fdd8848987f418e9c369fa748bea
+
+
+>>>>>>delete
+La operación DELETE es una de las cuatro acciones principales del CRUD (Create, Read, Update, Delete). 
     Su función es eliminar registros que ya no se necesitan dentro de una base de datos.
     Por ejemplo, permite borrar un usuario, un producto, un cliente o cualquier otro dato almacenado en una tabla.
     En una aplicación desarrollada en Java, esta operación normalmente se realiza mediante una consulta SQL que utiliza la 
@@ -17,10 +62,3 @@ Se debe seguir estos pasos:
 -Ejecutar la operación DELETE.
 -Verificar si el registro fue eliminado.
 -Mostrar un mensaje de confirmación.
- 
-crear, leer, actualizar, y borrar
-
-el CRUD son las partes clave para crear una pagina, tiene los elementos escenciales para su funcionamiento osea crear leer actualizar y borrar
-
-se puede realizar en multiples archivos o solo en uno, es recomendable que sea en 7 archios, 2 para crear, 2 para leer, 2 para actualizar y 1 para eliminar
-puede combinar codigo html y codigo php conectando la base de datos y estilizando el codigo con style siemrpe y cuando los conectes correctamente 
