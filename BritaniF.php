@@ -57,6 +57,14 @@ representan su estado. Pueden describir características como el color, la marca
 
 Los métodos, en cambio, representan las acciones que puede realizar un objeto. Por ejemplo, un vehículo puede arrancar, acelerar o frenar.
  Estos comportamientos se definen mediante métodos que contienen las instrucciones necesarias para realizar cada operación.
+ 
+ HERENCIA
+La herencia es un mecanismo de la Programación Orientada a Objetos que permite crear una clase nueva tomando como base otra que ya existe. La clase original recibe el nombre de superclase o clase padre, 
+mientras que la nueva se conoce como subclase o clase hija.
+
+En Java, la herencia se establece mediante la palabra reservada extends. Al utilizarla, la clase hija puede aprovechar los métodos y 
+atributos accesibles de la clase padre sin tener que volver a escribir todo el código. Esto facilita la reutilización de componentes y
+ permite mantener una estructura más organizada.
 
 </body>
 </html>
